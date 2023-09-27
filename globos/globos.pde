@@ -21,6 +21,7 @@ class Globo
   {
     fill(c);
       ellipse(x,y,100,100);
+      // hola chiqueeeeees
   }
   
 }
